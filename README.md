@@ -13,4 +13,4 @@ This project is built with:
 Process:
 This small project used the fundamentals of HTML, CSS and Javascript.The Javascript code allows the user to navigate 'next' or 'prev' and see how far they have progressed within the four steps.
 
-See it live here 👉 [https://expandable-cards.netlify.app/](https://expandable-cards.netlify.app/)
+See it live here 👉 [https://progress-steps-project.netlify.app/](https://progress-steps-project.netlify.app/)
